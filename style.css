@@ -1,0 +1,118 @@
+* {
+  font-family: Arial;
+  line-height: 35px;
+  
+}
+
+.header {
+  background-color: 00017A;
+  padding: 30px;
+  text-align: center;
+  color: white;
+  font-size: larger;
+}
+
+body {
+  background-image: url('https://ncr.dost.gov.ph/ncrv1/templates/dost-ncrwebv1.0/images/phil_seal.png'); 
+  background-position: 100%;
+  background-size: 39em;
+}
+
+.nav_menu {
+  overflow: hidden;
+  background-color: #1873D3;
+}
+
+.nav_menu a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav_menu a:hover {
+  background-color: white;
+  color: green;
+}
+
+.footer {
+  background-color: navy;
+  padding: 15px;
+  text-align: center;
+  overflow: hidden;
+  background-color: #333;
+  clear: left;
+}
+
+.footer a {
+  display: inline;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: arial;
+}
+
+.text-heading {
+  color: white;
+}
+
+.columnB {
+  float: left;
+  width: 43%;
+  padding: 15px;
+  text-align: justify;
+}
+
+.columnA,
+.columnC {
+  float: left;
+  width: 25%;
+  padding: 15px;
+  text-align: justify;
+}
+
+h1{
+  text-align: center;
+  background-color:FFB900;
+  padding: 15px;
+  color: aliceblue;
+
+}
+
+h2{
+  text-align: center;
+  color: aliceblue;
+}
+
+h3{
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
+
+li{
+  height: 5.5%;
+}
+
+td{
+  text-align: center;
+  padding: 20px;
+  
+}
+
+tr{
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+th{
+  color: white;
+  padding: 20px;
+  font-size: 20;
+  letter-spacing: 2px;
+}
+
